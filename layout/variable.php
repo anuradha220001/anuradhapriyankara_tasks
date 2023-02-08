@@ -1,4 +1,6 @@
-<?php include "header.php"?>
+<?php 
+$title = "Exercise3";
+include "header.php"?>
 
 <h2> Exercise 3. In class Task variables and Ooeration(variable.php) </h2>
     

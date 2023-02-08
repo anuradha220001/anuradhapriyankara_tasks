@@ -11,7 +11,7 @@
   a, .nav-link,.navbar-brand {
     color: white;
 }
-    </style>
+    </style>  
 </head>
 <body>
   <div class="container" >
@@ -35,6 +35,9 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="variable.php">Exercise 3</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="controlflow.php">Exercise 4</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="contactus.php">Contact US</a>
