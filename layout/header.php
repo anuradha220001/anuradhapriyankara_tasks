@@ -40,8 +40,12 @@
           <a class="nav-link" href="controlflow.php">Exercise 4</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="arrayexercise.php">Exercise 5</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="contactus.php">Contact US</a>
         </li>
+
         
       </ul>
       <form class="d-flex" role="search">
