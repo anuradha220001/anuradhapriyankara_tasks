@@ -145,7 +145,7 @@ foreach($temp_array as $temp)
  $avg_high_temp = $tot_temp/$temp_array_length;
  echo "Average Temperature is : ".$avg_high_temp.""; 
 
- // what does sort do?
+ // Sorting the date in Temp Array 
 sort($temp_array);
 echo "<br> List of five lowest temperatures :";
 for ($i=0; $i< 5; $i++)
@@ -153,7 +153,7 @@ for ($i=0; $i< 5; $i++)
 echo $temp_array[$i].", ";
 }
 echo "<br>List of five highest temperatures :";
-// explain the following loop
+// select first 5 variables
 for ($i=($temp_array_length-5); $i< ($temp_array_length); $i++)
 {
 echo $temp_array[$i].", ";
